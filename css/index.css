@@ -1,0 +1,43 @@
+.navigation{
+  background-color: cadetblue;
+}
+body {
+  height: 5000px;
+  font: 20px Gothem, sans-serif;
+  font-weight: regular;
+  text-align: center;
+}
+.left {
+  width: 29%;
+  height:500px;
+  background-color:#00CED1;
+  float: left;
+}
+.top{
+  height:200px;
+  width:auto;
+  background-color:#FF1493;
+}
+.bottom{
+  height: 300px;
+  width:auto;
+  background-color: #9932CC;
+}
+.right {
+  width: 70%;
+  height:500px;
+  background-color: #00BFFF;
+  float: right;
+}
+
+.fixed{
+  height: 50px;
+  width: 50px;
+  background-color:#00CED1;
+  border-radius: 20px;
+  color:#2F4F4F;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+}
